@@ -1,0 +1,1 @@
+Trabalho envolvendo  listas circulares do segundo semestre da faculdade Estácio de Sá. O objetivo do código é um jogo eletrônico no qual os jogadores precisam organizar e posicionar peças utilizando estruturas de dados fundamentais como parte das mecânicas de jogo, nele contém (enqueue) para inserir uma nova peça e (dequeue) para remover as peças.
